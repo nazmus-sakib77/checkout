@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.price{
+    width: 40%;
+    margin: 0;
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
+h5{
+    font-weight: bold;
+}
+
+.hr{
+    width: 400px;
+    margin: 5px 0px;
+
+}
+
+.promo-code{
+    align-content: center;
+}
+.code{
+    height: 38px;
+}
+.apply{
+    margin-bottom: 5px;
+}
+
